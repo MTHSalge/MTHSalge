@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MTHSalge
+- 👀 I’m interested in become a web developer!
+- 🌱 I’m currently learning HTML + CSS + JS
