@@ -8,7 +8,7 @@ I'm a brazilian Product Engineer who is in career transition to become a web dev
 
 ## About me
 🎓&nbsp;Graduated in **Product Engineering**
-<br/>🌱&nbsp;Learning about **Web development**
+<br/>🌱&nbsp;Learning about **Web Development**
 <br/>💡&nbsp;I'm interested about **Web Development, Games and Animes**
 <br/>📫&nbsp;Reach me [matheussalge@gmail.com](mailto:matheussalge@gmail.com)
 
